@@ -1,4 +1,4 @@
-** WalletUp _ Gerenciamento de finanças **
+**WalletUp _ Gerenciamento de finanças**
 
 - App criado na Lovable com o intuito de gerenciar finanças pessoais ;
 - Adicionar e analisar ganhos, gastos, sejam eles eventuais ou recorrentes ;
@@ -8,4 +8,4 @@
 
 - URL do app : https://wallet-up.lovable.app/
 
-** O site ainda está em construção e precisa de ajustes, os quais serão feitos periodicamente **
+**O site ainda está em construção e precisa de ajustes, os quais serão feitos periodicamente**
